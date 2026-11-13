@@ -71,8 +71,8 @@ The Power BI dashboard provides an interactive overview of customer purchasing b
 - Purchase trends and key business metrics.
 
 **Dashboard Preview:**
-
-<img width="1200" height="657" alt="image" src="https://github.com/user-attachments/assets/6fbcd96e-d349-4113-9187-c9b695e29feb" />
+dashboard_preview.png
+<img width="1200" height="657" alt="image" src="https://github.com/om-ghate/customer-behavior-analysis/blob/main/dashboard_preview.png" />
 
 ## 📈 Results & Key Insights
 
